@@ -1,0 +1,75 @@
+## Ticket 1: User Unable to Log in to Microsoft 365
+
+### Real-Life Steps
+1. Receive the ticket and review the issue description.
+2. Confirm the user’s identity using approved verification method.
+3. Check the user account status in Microsoft 365 / Entra ID.
+4. Confirm whether the account is locked, disabled, or affected by MFA.
+5. Review recent sign-in activity for suspicious login attempts.
+6. Reset the password if identity is verified.
+7. Unlock the account if it is locked.
+8. Require the user to change password at next login.
+9. Confirm MFA is active and working.
+10. Ask the user to test login to Outlook, Teams, and Microsoft 365.
+11. Document actions taken in the ticket.
+12. Close the ticket after user confirms access is restored.
+
+### Ticket Notes
+Identity verified. Account was locked due to failed login attempts. Password reset completed, account unlocked, MFA verified, and user confirmed successful login.
+
+
+## Ticket 2: Access Denied to SharePoint Folder
+
+### Real-Life Steps
+1. Review the ticket and identify the SharePoint folder or site affected.
+2. Confirm the user’s department and job role.
+3. Verify whether access is required for the user’s work.
+4. Check current SharePoint permissions and group membership.
+5. Confirm approval from manager or data owner if needed.
+6. Add the user to the correct Microsoft 365 group or SharePoint permission group.
+7. Ask the user to sign out and sign back in.
+8. Have the user test access to the folder.
+9. Confirm that only the required access was granted.
+10. Document the permission change in the ticket.
+11. Close the ticket after access is confirmed.
+
+### Ticket Notes
+User did not have the required group membership. Access was approved and user was added to the correct security group. User confirmed successful access.
+
+## Ticket 3: User Unable to Complete MFA Setup
+
+### Real-Life Steps
+1. Review the MFA issue reported by the user.
+2. Verify the user’s identity before making security changes.
+3. Check the user’s MFA registration methods in Microsoft 365 / Entra ID.
+4. Confirm whether the registered phone number or device is correct.
+5. If needed, reset MFA registration for the user.
+6. Guide the user through setting up Microsoft Authenticator.
+7. Have the user complete setup using QR code or app.
+8. Test MFA prompt with the user.
+9. Confirm the user can access Microsoft 365.
+10. Document the steps taken.
+11. Close the ticket after successful login confirmation.
+
+### Ticket Notes
+MFA was not properly configured. Reset MFA and reconfigured using authenticator app. User confirmed successful login.
+
+
+## Ticket 4: New User Onboarding – Account and Access Setup
+
+### Real-Life Steps
+1. Receive onboarding request from HR or manager.
+2. Confirm employee details (name, role, department, start date).
+3. Identify required systems and access levels.
+4. Create user account in Microsoft 365 / Entra ID.
+5. Assign Microsoft 365 license.
+6. Add user to department security groups.
+7. Grant access to Teams, SharePoint, and required applications.
+8. Enable MFA and set initial login requirements.
+9. Send login instructions to the user.
+10. Confirm user can log in successfully.
+11. Document all actions taken.
+12. Close the ticket.
+
+### Ticket Notes
+User account created, license assigned, access configured, and MFA enabled. User ready for first login.

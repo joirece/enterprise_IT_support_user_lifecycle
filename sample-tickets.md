@@ -44,7 +44,7 @@ MFA successfully configured using mobile app.
 
 **Status:** Resolved
 
-## Ticket 3: Access Denied to SharePoint
+ Ticket 3: Access Denied to SharePoint
 
 **Ticket ID:** 1003  
 **User:** Michael Brown  
@@ -64,9 +64,7 @@ Access restored after group assignment.
 
 **Status:** Resolved
 
----
-
-## Ticket 4: Suspicious Email Report
+Ticket 4: Suspicious Email Report
 
 **Ticket ID:** 1004  
 **User:** Emily Davis  
@@ -86,9 +84,7 @@ Email confirmed as phishing. User deleted message. No compromise detected.
 
 **Status:** Resolved / Monitored
 
----
-
-## Ticket 5: New User Onboarding
+Ticket 5: New User Onboarding
 
 **Ticket ID:** 1005  
 **User:** New Hire (David Wilson)  
@@ -109,8 +105,6 @@ New employee requires system access prior to start date.
 User account fully provisioned and ready for first login.
 
 **Status:** Completed
-
----
 
 ## Notes
 - All tickets follow standard IT support procedures

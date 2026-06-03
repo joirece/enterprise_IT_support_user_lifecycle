@@ -24,9 +24,7 @@ User successfully logged in after password reset. MFA confirmed active.
 
 **Status:** Resolved
 
----
-
-## Ticket 2: MFA Setup Issue
+Ticket 2: MFA Setup Issue
 
 **Ticket ID:** 1002  
 **User:** Sarah Smith  
@@ -45,8 +43,6 @@ User reports issues receiving verification code during MFA setup.
 MFA successfully configured using mobile app.
 
 **Status:** Resolved
-
----
 
 ## Ticket 3: Access Denied to SharePoint
 

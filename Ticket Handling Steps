@@ -1,6 +1,6 @@
-## Ticket 1: User Unable to Log in to Microsoft 365
+Ticket 1: User Unable to Log in to Microsoft 365
 
-### Real-Life Steps
+ Real-Life Steps
 1. Receive the ticket and review the issue description.
 2. Confirm the user’s identity using approved verification method.
 3. Check the user account status in Microsoft 365 / Entra ID.
@@ -14,13 +14,13 @@
 11. Document actions taken in the ticket.
 12. Close the ticket after user confirms access is restored.
 
-### Ticket Notes
+Ticket Notes
 Identity verified. Account was locked due to failed login attempts. Password reset completed, account unlocked, MFA verified, and user confirmed successful login.
 
 
-## Ticket 2: Access Denied to SharePoint Folder
+Ticket 2: Access Denied to SharePoint Folder
 
-### Real-Life Steps
+ Real-Life Steps
 1. Review the ticket and identify the SharePoint folder or site affected.
 2. Confirm the user’s department and job role.
 3. Verify whether access is required for the user’s work.
@@ -33,10 +33,10 @@ Identity verified. Account was locked due to failed login attempts. Password res
 10. Document the permission change in the ticket.
 11. Close the ticket after access is confirmed.
 
-### Ticket Notes
+Ticket Notes
 User did not have the required group membership. Access was approved and user was added to the correct security group. User confirmed successful access.
 
-## Ticket 3: User Unable to Complete MFA Setup
+Ticket 3: User Unable to Complete MFA Setup
 
 ### Real-Life Steps
 1. Review the MFA issue reported by the user.
@@ -51,13 +51,13 @@ User did not have the required group membership. Access was approved and user wa
 10. Document the steps taken.
 11. Close the ticket after successful login confirmation.
 
-### Ticket Notes
+ Ticket Notes
 MFA was not properly configured. Reset MFA and reconfigured using authenticator app. User confirmed successful login.
 
 
-## Ticket 4: New User Onboarding – Account and Access Setup
+ Ticket 4: New User Onboarding – Account and Access Setup
 
-### Real-Life Steps
+ Real-Life Steps
 1. Receive onboarding request from HR or manager.
 2. Confirm employee details (name, role, department, start date).
 3. Identify required systems and access levels.
@@ -71,5 +71,5 @@ MFA was not properly configured. Reset MFA and reconfigured using authenticator 
 11. Document all actions taken.
 12. Close the ticket.
 
-### Ticket Notes
+Ticket Notes
 User account created, license assigned, access configured, and MFA enabled. User ready for first login.

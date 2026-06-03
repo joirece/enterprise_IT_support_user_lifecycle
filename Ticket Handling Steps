@@ -38,7 +38,7 @@ User did not have the required group membership. Access was approved and user wa
 
 Ticket 3: User Unable to Complete MFA Setup
 
-### Real-Life Steps
+Real-Life Steps
 1. Review the MFA issue reported by the user.
 2. Verify the user’s identity before making security changes.
 3. Check the user’s MFA registration methods in Microsoft 365 / Entra ID.

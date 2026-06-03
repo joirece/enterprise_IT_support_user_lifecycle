@@ -1,11 +1,9 @@
-# Sample Help Desk Tickets
+Sample Help Desk Tickets
 
-## Overview
+Overview
 This section contains sample help desk tickets demonstrating common Tier 1 IT support scenarios, troubleshooting steps, and resolution documentation.
 
----
-
-## Ticket 1: Password Reset Request
+Ticket 1: Password Reset Request
 
 **Ticket ID:** 1001  
 **User:** John Doe  

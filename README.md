@@ -1,24 +1,24 @@
-# Enterprise IT Support & User Lifecycle Management
+Enterprise IT Support & User Lifecycle Management
 
-# Overview
+ Overview
 This environment simulates internal IT operations for a growing organization, focusing on user onboarding, offboarding, account support, and access management within a Microsoft 365 ecosystem.  
 
 It is designed to reflect real-world IT Service Desk responsibilities, including identity management, ticket handling, and security-focused user support.
 
-# Key Responsibilities Simulated
+Key Responsibilities Simulated
 - Provisioned and deprovisioned user accounts in a Microsoft 365 / Entra ID environment
 - Managed user access based on role-based access control (RBAC) principles
 - Supported end-users with common Tier 1 issues (password resets, MFA setup, account lockouts)
 - Documented and tracked support requests using structured ticket workflows
 - Applied basic security practices aligned with Security+ concepts
 
-# Environment Scenario
+ Environment Scenario
 A simulated organization, **MicroServices**, requires a structured IT support process to manage employee lifecycle events.  
 
 The IT team is responsible for ensuring that all users receive appropriate system access upon hire, maintain secure access during employment, and have all access removed promptly upon termination.
 
-# Core Components
-1. **User Onboarding Process**
+ Core Components
+1. User Onboarding Process**
    - Account creation
    - License assignment
    - MFA setup
@@ -51,7 +51,7 @@ The IT team is responsible for ensuring that all users receive appropriate syste
 - GitHub for documentation
 - Markdown for technical writing
 
-#Outcome
+Outcome
 This project demonstrates hands-on understanding of IT support operations, user lifecycle management, and foundational identity and access management practices.  
 
 It reflects the ability to support business users, follow structured processes, and maintain security standards in a corporate IT environment.
